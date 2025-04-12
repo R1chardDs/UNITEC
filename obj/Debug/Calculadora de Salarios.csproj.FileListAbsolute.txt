@@ -1,0 +1,11 @@
+C:\Users\rampie\OneDrive\Own - Learning\C#\Proyecto Nomina Uni\Calculadora de Salarios\bin\Debug\Calculadora de Salarios.exe
+C:\Users\rampie\OneDrive\Own - Learning\C#\Proyecto Nomina Uni\Calculadora de Salarios\bin\Debug\Calculadora de Salarios.exe.config
+C:\Users\rampie\OneDrive\Own - Learning\C#\Proyecto Nomina Uni\Calculadora de Salarios\obj\Debug\Calculadora de Salarios.csproj.AssemblyReference.cache
+C:\Users\rampie\OneDrive\Own - Learning\C#\Proyecto Nomina Uni\Calculadora de Salarios\obj\Debug\Calculadora_de_Salarios.Frm_CalculoSalarioNeto.resources
+C:\Users\rampie\OneDrive\Own - Learning\C#\Proyecto Nomina Uni\Calculadora de Salarios\obj\Debug\Calculadora_de_Salarios.Frm_InicioModuloNomina.resources
+C:\Users\rampie\OneDrive\Own - Learning\C#\Proyecto Nomina Uni\Calculadora de Salarios\obj\Debug\Calculadora_de_Salarios.Properties.Resources.resources
+C:\Users\rampie\OneDrive\Own - Learning\C#\Proyecto Nomina Uni\Calculadora de Salarios\obj\Debug\Calculadora de Salarios.csproj.GenerateResource.cache
+C:\Users\rampie\OneDrive\Own - Learning\C#\Proyecto Nomina Uni\Calculadora de Salarios\obj\Debug\Calculadora de Salarios.csproj.CoreCompileInputs.cache
+C:\Users\rampie\OneDrive\Own - Learning\C#\Proyecto Nomina Uni\Calculadora de Salarios\obj\Debug\Calculadora de Salarios.exe
+C:\Users\rampie\OneDrive\Own - Learning\C#\Proyecto Nomina Uni\Calculadora de Salarios\obj\Debug\Calculadora de Salarios.pdb
+C:\Users\rampie\OneDrive\Own - Learning\C#\Proyecto Nomina Uni\Calculadora de Salarios\bin\Debug\Calculadora de Salarios.pdb

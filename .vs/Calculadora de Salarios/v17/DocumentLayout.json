@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rampie\\OneDrive\\Own - Learning\\C#\\Proyecto Nomina Uni\\Calculadora de Salarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2033C8C-AA07-43A1-87F6-9F2F90CB13E3}|Calculadora de Salarios.csproj|C:\\Users\\rampie\\OneDrive\\Own - Learning\\C#\\Proyecto Nomina Uni\\Calculadora de Salarios\\iniciomodulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2033C8C-AA07-43A1-87F6-9F2F90CB13E3}|Calculadora de Salarios.csproj|solutionrelative:iniciomodulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2033C8C-AA07-43A1-87F6-9F2F90CB13E3}|Calculadora de Salarios.csproj|C:\\Users\\rampie\\OneDrive\\Own - Learning\\C#\\Proyecto Nomina Uni\\Calculadora de Salarios\\frm_calculosalarioneto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2033C8C-AA07-43A1-87F6-9F2F90CB13E3}|Calculadora de Salarios.csproj|solutionrelative:frm_calculosalarioneto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2033C8C-AA07-43A1-87F6-9F2F90CB13E3}|Calculadora de Salarios.csproj|c:\\users\\rampie\\onedrive\\own - learning\\c#\\proyecto nomina uni\\calculadora de salarios\\frm_calculosalarioneto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2033C8C-AA07-43A1-87F6-9F2F90CB13E3}|Calculadora de Salarios.csproj|solutionrelative:frm_calculosalarioneto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2033C8C-AA07-43A1-87F6-9F2F90CB13E3}|Calculadora de Salarios.csproj|c:\\users\\rampie\\onedrive\\own - learning\\c#\\proyecto nomina uni\\calculadora de salarios\\iniciomodulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2033C8C-AA07-43A1-87F6-9F2F90CB13E3}|Calculadora de Salarios.csproj|solutionrelative:iniciomodulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InicioModulo.cs",
+              "DocumentMoniker": "C:\\Users\\rampie\\OneDrive\\Own - Learning\\C#\\Proyecto Nomina Uni\\Calculadora de Salarios\\InicioModulo.cs",
+              "RelativeDocumentMoniker": "InicioModulo.cs",
+              "ToolTip": "C:\\Users\\rampie\\OneDrive\\Own - Learning\\C#\\Proyecto Nomina Uni\\Calculadora de Salarios\\InicioModulo.cs",
+              "RelativeToolTip": "InicioModulo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T04:29:23.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_CalculoSalarioNeto.cs",
+              "DocumentMoniker": "C:\\Users\\rampie\\OneDrive\\Own - Learning\\C#\\Proyecto Nomina Uni\\Calculadora de Salarios\\Frm_CalculoSalarioNeto.cs",
+              "RelativeDocumentMoniker": "Frm_CalculoSalarioNeto.cs",
+              "ToolTip": "C:\\Users\\rampie\\OneDrive\\Own - Learning\\C#\\Proyecto Nomina Uni\\Calculadora de Salarios\\Frm_CalculoSalarioNeto.cs",
+              "RelativeToolTip": "Frm_CalculoSalarioNeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T04:26:28.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_CalculoSalarioNeto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rampie\\OneDrive\\Own - Learning\\C#\\Proyecto Nomina Uni\\Calculadora de Salarios\\Frm_CalculoSalarioNeto.cs",
+              "RelativeDocumentMoniker": "Frm_CalculoSalarioNeto.cs",
+              "ToolTip": "C:\\Users\\rampie\\OneDrive\\Own - Learning\\C#\\Proyecto Nomina Uni\\Calculadora de Salarios\\Frm_CalculoSalarioNeto.cs [Design]",
+              "RelativeToolTip": "Frm_CalculoSalarioNeto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T04:24:21.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InicioModulo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rampie\\OneDrive\\Own - Learning\\C#\\Proyecto Nomina Uni\\Calculadora de Salarios\\InicioModulo.cs",
+              "RelativeDocumentMoniker": "InicioModulo.cs",
+              "ToolTip": "C:\\Users\\rampie\\OneDrive\\Own - Learning\\C#\\Proyecto Nomina Uni\\Calculadora de Salarios\\InicioModulo.cs [Design]",
+              "RelativeToolTip": "InicioModulo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:22:41.761Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
